@@ -1,0 +1,21 @@
+.navbar-brand {
+  font-family: "Zeyada", cursive;
+  font-weight: bold;
+}
+
+.jumbotron {
+  background-color: #cae4eb;
+  padding-top: 6rem;
+}
+
+#gallery {
+  background-color: #cae4eb;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.btn {
+  background-color: #30efef;
+}
